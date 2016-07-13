@@ -14,3 +14,5 @@ It is only a taskbar icon with...
 
 Program.cs is setup to only allow one instance at a time.
 See https://github.com/gmpentaxfan/Wifi_Checker/blob/master/Wifi%20Checker%20Upload.png for some screenshots of the program in use.
+
+This is my second C## project and first time uploading to GitHub.
